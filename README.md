@@ -13,7 +13,6 @@ This game is primarily designed as a practice project to apply and reinforce Obj
 
 ### OOP Concepts Used
 This project is structured using Object-Oriented Programming principles, including:
-
-Classes and Objects: The game logic, board, players, and menu are each represented as classes, and their instances are used to perform the required operations.
-Methods: Each class has methods that define its behavior, such as checking for a win, displaying the board, and handling player turns.
-Encapsulation: Player and board information are encapsulated within their respective classes, promoting data safety and cleaner code.
+  - Classes and Objects: The game logic, board, players, and menu are each represented as classes, and their instances are used to perform the required operations.
+  - Methods: Each class has methods that define its behavior, such as checking for a win, displaying the board, and handling player turns.
+  - Encapsulation: Player and board information are encapsulated within their respective classes, promoting data safety and cleaner code.
